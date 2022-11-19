@@ -16,4 +16,4 @@
 
 ### For the year 2015 get the top economical bowlers.
 
-Solution will be on MySQL File next.
+Solution will be on IPL_sql.odt File next.
